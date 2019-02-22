@@ -1,4 +1,5 @@
-﻿Imports System
+﻿Imports System.Resources
+Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
@@ -8,12 +9,12 @@ Imports System.Runtime.InteropServices
 
 '查看程序集特性的值
 
-<Assembly: AssemblyTitle("Counter")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Counter")>
-<Assembly: AssemblyCopyright("Copyright ©  2019")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyTitle("Simple Counter")>
+<Assembly: AssemblyDescription("A simple counter for Microsoft Windows")>
+<Assembly: AssemblyCompany("N/A")>
+<Assembly: AssemblyProduct("Simple Counter")>
+<Assembly: AssemblyCopyright("Copyright © 2019 Shaoju Chen")>
+<Assembly: AssemblyTrademark("N/A")>
 
 <Assembly: ComVisible(False)>
 
@@ -31,5 +32,6 @@ Imports System.Runtime.InteropServices
 ' 方法是按如下所示使用“*”: :
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("1.0.0.1")>
+<Assembly: AssemblyFileVersion("1.0.0.1")>
+<Assembly: NeutralResourcesLanguage("en-US")>
