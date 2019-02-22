@@ -7,6 +7,9 @@ Microsoft .NET Framework 2.0 or Higher
 # Screenshot
 ![Screenshot](https://github.com/chenshaoju/simple-counter/blob/master/screenshot.png?raw=true)
 
+# Download
+[Simpe Counter 1.0](https://github.com/chenshaoju/simple-counter/releases)
+
 # License
 The source code is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
 
