@@ -2,7 +2,7 @@
 A simple counter for Microsoft Windows
 
 # Environmental requirement
-Microsoft .NET Framework or Higher 
+Microsoft .NET Framework 2.0 or Higher 
 
 # Screenshot
 ![Screenshot](https://github.com/chenshaoju/simple-counter/blob/master/screenshot.png?raw=true)
