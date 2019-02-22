@@ -1,5 +1,5 @@
 # Simple Counter
-A simple counter for Microsoft Windows
+A simple counter tool for Microsoft Windows
 
 # Environmental requirement
 Microsoft .NET Framework 2.0 or Higher 
