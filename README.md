@@ -5,7 +5,7 @@ A simple counter tool for Microsoft Windows
 Microsoft .NET Framework 2.0 or Higher 
 
 # Screenshot
-![Screenshot](https://github.com/chenshaoju/simple-counter/blob/master/screenshot.png?raw=true) ![Screenshot](https://github.com/chenshaoju/simple-counter/blob/master/Screenshot.gif?raw=true)
+![Screenshot](https://github.com/chenshaoju/simple-counter/blob/master/screenshot.gif?raw=true)
 
 # Download
 [Simple Counter 1.0.0.1](https://github.com/chenshaoju/simple-counter/releases)
